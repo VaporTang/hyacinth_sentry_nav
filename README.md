@@ -1,4 +1,4 @@
-# hyacinth-sentry-nav
+# hyacinth_sentry_nav
 > Code is poetry, and navigation is the art of movement.
 
 北京林业大学 RoboMaster 森林狼战队 哨兵机器人 视觉组 导航部分
